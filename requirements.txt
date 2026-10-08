@@ -1,0 +1,10 @@
+colorama
+requests
+ensta
+helper
+phonenumbers
+instaloader
+selenium
+ipaddress
+callable
+flask
